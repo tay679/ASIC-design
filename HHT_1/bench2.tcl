@@ -1,0 +1,1 @@
+vcs -full64 -R -sverilog bench/hht1_andrews.sv hht_bench.vg -v svt_16nm.v +define+VCD
